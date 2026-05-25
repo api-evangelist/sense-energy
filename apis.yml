@@ -1,0 +1,80 @@
+aid: sense-energy
+name: Sense
+description: >-
+  Sense is a Cambridge, Massachusetts energy-intelligence company that builds
+  a residential energy monitor and machine-learning platform for real-time
+  whole-home electricity disaggregation. The Sense Monitor installs in a
+  home electrical panel, samples voltage and current at one million times
+  per second, and uses signature-based machine-learning models to identify
+  individual appliances and loads behind a single point of measurement. The
+  Sense iOS, Android, and web apps surface device-level usage, always-on
+  load, solar production, time-of-use cost, and goal tracking to homeowners.
+  For utilities and grid operators, Sense embeds its disaggregation software
+  into next-generation AMI 2.0 smart meters through partnerships with meter
+  manufacturers such as Landis+Gyr, providing grid-edge visibility, fault
+  detection, load-management, demand-response, and virtual-power-plant
+  enablement. Sense also runs a partner program for smart-device integration
+  with thermostats, EV chargers, heat pumps, and home-service providers.
+  Sense has not released an official public developer API; community
+  developers maintain reverse-engineered, unofficial clients in Python,
+  Node.js, and Home Assistant against an undocumented and unsupported
+  endpoint. Sense's revenue model is hardware sales of the consumer monitor
+  and licensing of its disaggregation software to utilities and meter OEMs.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Energy
+  - Home Energy
+  - Energy Monitoring
+  - Electricity
+  - Smart Meters
+  - AMI
+  - Grid Edge
+  - Utilities
+  - Demand Response
+  - Virtual Power Plant
+  - Disaggregation
+  - Machine Learning
+  - Smart Home
+  - IoT
+  - Solar
+  - Sustainability
+url: https://raw.githubusercontent.com/api-evangelist/sense-energy/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://sense.com
+  - type: Homes
+    url: https://sense.com/homes/
+  - type: Utilities
+    url: https://sense.com/utilities/
+  - type: Partners
+    url: https://sense.com/partners/
+  - type: MeterPartners
+    url: https://sense.com/resources/sense-enabled-meter-partners/
+  - type: WebApp
+    url: https://home.sense.com/
+  - type: DownloadApp
+    url: https://sense.com/homes/download-app/
+  - type: Resources
+    url: https://sense.com/resources/
+  - type: Community
+    url: https://community.sense.com
+  - type: Support
+    url: https://help.sense.com/hc/en-us
+  - type: ContactPartners
+    url: https://sense.com/partners/get-in-touch/
+  - type: Careers
+    url: https://sense.com/careers/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sense-com
+  - type: Twitter
+    url: https://twitter.com/sense
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
