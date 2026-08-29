@@ -21,6 +21,17 @@ description: >-
   endpoint. Sense's revenue model is hardware sales of the consumer monitor
   and licensing of its disaggregation software to utilities and meter OEMs.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: approval
